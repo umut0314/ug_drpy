@@ -1,0 +1,175 @@
+{
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"homepage": "https://github.com/hjdhnx/hipy-server",
+	"homeLogo": "./img/kino.png",
+	"spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+	"sites": [	
+		{
+			"key": "hipy_js_哔哩哔哩",
+			"name": "哔哩哔哩",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/哔哩哔哩.js"
+		},
+		{
+			"key": "hipy_js_bilimnur",
+			"name": "Bilimnur",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1315,
+			"ext": "./drpy_js/bilimnur.js"
+		},{
+			"key": "hipy_js_kikastv",
+			"name": "Kikastv",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1316,
+			"ext": "./drpy_js/kikastv.js"
+		},{
+			"key": "hipy_js_Qutbay",
+			"name": "Qutbay",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1317,
+			"ext": "./drpy_js/Qutbay1.js"
+		},{
+			"key": "hipy_js_koznak",
+			"name": "Koznak",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"order_num": 1318,
+			"ext": "./drpy_js/Koznak.js"
+		},{
+		
+		    "key": "hipy_js_8号影院",
+			"name": "8号影院",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/8号影院.js"
+		},{
+			"key": "hipy_js_4k剧院",
+			"name": "4k剧院",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/4k剧院.js"
+	    },{
+			"key": "hipy_js_Mirak",
+			"name": "mirak kino",//mirak
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1320,
+			"ext": "./drpy_js/Mirak.js"
+		}
+	],
+	"parses": [
+
+	],
+	"flags": [
+	],
+	"lives": [
+	{
+			"group": "ياسىغۇچى رۇستەم",
+			"channels": [
+				{
+					"name": "رۇستەم كىنو قانىلى",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=HQYY"
+					]
+				},{
+					"name": "خوتەن ئۇيغۇرچە",
+					"urls": [
+						"http://www.jykds.top/ezhar.php?id=HT2"
+					]
+				},{
+					"name": "شىنجاڭ2 ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=XJTV2"
+					]
+				},{
+					"name": "شىنجاڭ5 ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=XJTV5"
+					]
+				},{
+					"name": "شىنجاڭ9 ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=XJTV9"
+					]
+				},{
+					"name": "شىنجاڭ12 بالىلار",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=XJTV12"
+					]
+				},{
+					"name": "قەشقەر ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=KS2"
+					]
+				},{
+					"name": "ئاقسۇ ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=AKS3"
+					]
+				},{
+					"name": "غۇلجا ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=YL3"
+					]
+				},{
+					"name": "توقسۇن ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=TKX2"
+					]
+				},{
+					"name": " ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=HM2"
+					]
+				},{
+					"name": "قىزىلسۇ ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=KZWY3"
+					]
+				},{
+					"name": "ئۈرۈمچى ئۇيغۇرچە",
+					"urls": [
+						"http://yalpuztv.cn/Kalbimkanail.php?id=WLMQ2"
+					]
+				},{
+					"name": "بايىنغۇلۇن ئۇيغۇرچە",
+					"urls": [
+						"http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8"
+					]
+				}
+				
+	]
+}
+] 
+}
