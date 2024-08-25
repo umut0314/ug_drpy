@@ -1,0 +1,298 @@
+{
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=dongman&px=m&type=302",
+	"homepage": "https://github.com/hjdhnx/hipy-server",
+	"homeLogo": "./img/logo500x200-1.png",
+	"spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+	"sites": [	
+		{
+			"key": "hipy_js_ozbel",
+			"name": "Ozbel",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1,
+			"ext": "./drpy_js/ozbel.js"
+		},
+		{
+			"key": "hipy_js_Alkoz",
+			"name": "Alkoz[Salon]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 2,
+			"ext": "./drpy_js/Alkoz[Salon].js"
+		},{
+			"key": "hipy_js_kikastv",
+			"name": "Kikastv[Salon]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 3,
+			"ext": "./drpy_js/kikastv[Salon].js"
+		},{
+			"key": "hipy_js_Qutbay",
+			"name": "Qutbay[Salon]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 4,
+			"ext": "./drpy_js/Qutbay[Salon].js"
+		},{
+			"key": "hipy_js_koznak",
+			"name": "Koznak",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"order_num": 5,
+			"ext": "./drpy_js/Koznak.js"
+		},{
+			"key": "hipy_js_diva",
+			"name": "Diva[Fm]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 6,
+			"ext": "./drpy_js/Diva[Fm].js"
+		},{
+			"key": "hipy_js_Zenhar",
+			"name": "Zenhar[Salon]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 7,
+			"ext": "./drpy_js/Zenhar[Salon].js"
+		},{
+			"key": "hipy_js_Gilas",
+			"name": "Gilas",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 8,
+			"ext": "./drpy_js/Gilas.js"
+		},{
+			"key": "hipy_js_Basbas",
+			"name": "Basbas",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 9,
+			"ext": "./drpy_js/Basbas.js"
+		},{
+			"key": "hipy_js_kixmix",
+			"name": "Kixmix",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"order_num": 10,
+			"ext": "./drpy_js/Kixmix.js"
+		},{
+			"key": "hipy_js_Dolqun",
+			"name": "Dolqun",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Dolqun.js"
+		},{
+			"key": "hipy_js_Xabnam",
+			"name": "Tawuz",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 12,
+			"ext": "./drpy_js/Tawuz.js"
+		},{
+			"key": "hipy_js_BananTv",
+			"name": "BananTv",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 13,
+			"ext": "./drpy_js/BananTv.js"
+		},{
+			"key": "hipy_js_Mirak",
+			"name": "Mirak",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 14,
+			"ext": "./drpy_js/Mirak.js"
+		},{
+			"key": "hipy_js_Ktablar[Fm]",
+			"name": "Ktablar[Fm]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 15,
+			"ext": "./drpy_js/Ktablar[Fm].js"
+		},{
+			"key": "hipy_js_Baxlan",
+			"name": "Baxlan",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Baxlan.js"
+		},{
+			"key": "hipy_js_Xatlan",
+			"name": "Xatlan",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Xatlan.js"
+		},{
+			"key": "hipy_js_Tawuz",
+			"name": "Tawuz",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Tawuz.js"
+		},{
+			"key": "hipy_js_Maxrap",
+			"name": "Maxrap",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Maxrap.js"
+		},{
+			"key": "hipy_js_Tiyatir",
+			"name": "Tiyatir",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Tiyatir.js"
+		},{
+			"key": "hipy_js_Subat",
+			"name": "Subat",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Subat.js"
+		},{
+			"key": "hipy_js_Waris",
+			"name": "Waris",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Waris.js"
+		},{
+			"key": "hipy_js_Zoqlan",
+			"name": "Zoqlan",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Zoqlan.js"
+		},{
+			"key": "hipy_js_Dilkan",
+			"name": "Dilkan",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Dilkan.js"
+		},{
+			"key": "hipy_js_Umut",
+			"name": "Umut",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Umut.js"
+		},{
+			"key": "hipy_js_Ekranim",
+			"name": "Ekranim",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Ekranim.js"
+		},{
+			"key": "hipy_js_Dilqux",
+			"name": "Dilqux",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Dilqux.js"
+		},{
+			"key": "hipy_js_Ornak",
+			"name": "Ornak",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 11,
+			"ext": "./drpy_js/Ornak.js"
+		}
+	],
+	"parses": [
+
+	],
+	"flags": [
+	],
+	"lives": [
+	
+	]
+}
